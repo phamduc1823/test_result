@@ -197,18 +197,6 @@
       "name": "Fettucine Pasta",
       "restaurant": "Olive Garden",
       "availableMeals": ["lunch", "dinner"]
-    },
-    {
-      "id": 34,
-      "name": "Egg Muffin",
-      "restaurant": "Lucy key",
-      "availableMeals": ["breakfast"]
-    },
-    {
-      "id": 35,
-      "name": "Egg Muffin",
-      "restaurant": "Poca",
-      "availableMeals": ["breakfast"]
     }
   ]
 }
