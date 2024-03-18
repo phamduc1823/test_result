@@ -15,7 +15,7 @@ npm run build
 ```
 
 ### Step 4
-* Create && setup file .env
+* Create & setup file .env
 ```shc
 php artisan key:generate
 ```
